@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\seans\\Desktop\\Projects\\EmployeeManagement\\EmployeeManagement\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1E41BD18-CDAA-4589-AD46-D877FD4AC717}|EmployeeManagement\\EmployeeManagement.csproj|c:\\users\\seans\\desktop\\projects\\employeemanagement\\employeemanagement\\employeemanagement\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1E41BD18-CDAA-4589-AD46-D877FD4AC717}|EmployeeManagement\\EmployeeManagement.csproj|solutionrelative:employeemanagement\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1E41BD18-CDAA-4589-AD46-D877FD4AC717}|EmployeeManagement\\EmployeeManagement.csproj|c:\\users\\seans\\desktop\\projects\\employeemanagement\\employeemanagement\\employeemanagement\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1E41BD18-CDAA-4589-AD46-D877FD4AC717}|EmployeeManagement\\EmployeeManagement.csproj|solutionrelative:employeemanagement\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1E41BD18-CDAA-4589-AD46-D877FD4AC717}|EmployeeManagement\\EmployeeManagement.csproj|c:\\users\\seans\\desktop\\projects\\employeemanagement\\employeemanagement\\employeemanagement\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1E41BD18-CDAA-4589-AD46-D877FD4AC717}|EmployeeManagement\\EmployeeManagement.csproj|solutionrelative:employeemanagement\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1E41BD18-CDAA-4589-AD46-D877FD4AC717}|EmployeeManagement\\EmployeeManagement.csproj|c:\\users\\seans\\desktop\\projects\\employeemanagement\\employeemanagement\\employeemanagement\\models\\mockemployeerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1E41BD18-CDAA-4589-AD46-D877FD4AC717}|EmployeeManagement\\EmployeeManagement.csproj|solutionrelative:employeemanagement\\models\\mockemployeerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1E41BD18-CDAA-4589-AD46-D877FD4AC717}|EmployeeManagement\\EmployeeManagement.csproj|c:\\users\\seans\\desktop\\projects\\employeemanagement\\employeemanagement\\employeemanagement\\models\\iemployeerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1E41BD18-CDAA-4589-AD46-D877FD4AC717}|EmployeeManagement\\EmployeeManagement.csproj|solutionrelative:employeemanagement\\models\\iemployeerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MockEmployeeRepository.cs",
+              "DocumentMoniker": "C:\\Users\\seans\\Desktop\\Projects\\EmployeeManagement\\EmployeeManagement\\EmployeeManagement\\Models\\MockEmployeeRepository.cs",
+              "RelativeDocumentMoniker": "EmployeeManagement\\Models\\MockEmployeeRepository.cs",
+              "ToolTip": "C:\\Users\\seans\\Desktop\\Projects\\EmployeeManagement\\EmployeeManagement\\EmployeeManagement\\Models\\MockEmployeeRepository.cs",
+              "RelativeToolTip": "EmployeeManagement\\Models\\MockEmployeeRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAA6AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-05T13:43:53.941Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "C:\\Users\\seans\\Desktop\\Projects\\EmployeeManagement\\EmployeeManagement\\EmployeeManagement\\Models\\Employee.cs",
+              "RelativeDocumentMoniker": "EmployeeManagement\\Models\\Employee.cs",
+              "ToolTip": "C:\\Users\\seans\\Desktop\\Projects\\EmployeeManagement\\EmployeeManagement\\EmployeeManagement\\Models\\Employee.cs",
+              "RelativeToolTip": "EmployeeManagement\\Models\\Employee.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-05T13:36:56.162Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\seans\\Desktop\\Projects\\EmployeeManagement\\EmployeeManagement\\EmployeeManagement\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "EmployeeManagement\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\seans\\Desktop\\Projects\\EmployeeManagement\\EmployeeManagement\\EmployeeManagement\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "EmployeeManagement\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABsAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-05T13:25:37.198Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IEmployeeRepository.cs",
+              "DocumentMoniker": "C:\\Users\\seans\\Desktop\\Projects\\EmployeeManagement\\EmployeeManagement\\EmployeeManagement\\Models\\IEmployeeRepository.cs",
+              "RelativeDocumentMoniker": "EmployeeManagement\\Models\\IEmployeeRepository.cs",
+              "ToolTip": "C:\\Users\\seans\\Desktop\\Projects\\EmployeeManagement\\EmployeeManagement\\EmployeeManagement\\Models\\IEmployeeRepository.cs",
+              "RelativeToolTip": "EmployeeManagement\\Models\\IEmployeeRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAABcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-05T13:16:44.776Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\seans\\Desktop\\Projects\\EmployeeManagement\\EmployeeManagement\\EmployeeManagement\\Program.cs",
+              "RelativeDocumentMoniker": "EmployeeManagement\\Program.cs",
+              "ToolTip": "C:\\Users\\seans\\Desktop\\Projects\\EmployeeManagement\\EmployeeManagement\\EmployeeManagement\\Program.cs",
+              "RelativeToolTip": "EmployeeManagement\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAA3AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-05T12:54:24.126Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

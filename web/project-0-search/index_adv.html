@@ -1,0 +1,121 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/css/bootstrap.min.css" rel="stylesheet">
+        <link rel="stylesheet" href="style.css">
+        <title>Advanced Search by tschindz</title>
+    </head>
+    <body>
+
+        <!-- Navigation bar fixed to the top with small expand -->
+        <nav class="navbar navbar-expand-sm fixed-top">            
+            <div class="container-fluid">
+                <ul class="navbar-nav ms-auto">
+                    <li class="nav-item">
+                        <a class="nav-link" href="index.html">Search</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" href="index_img.html">Image Search</a>
+                    </li>
+                </ul>
+            </div>
+        </nav>
+
+        <!--Header container for logo and header-->
+        <div class="container border-bottom float-start">
+            <div class="row ">
+                <div class="col-1 ">
+                    <img src="images/google_logo_holidays23.png" id="adv_img" class="img float-start" alt="Google logo for holiday season 2023">
+                </div>                
+            </div>
+            <div class="row">
+                <p class="h3 mt-5 mb-3">Advanced Search</p>
+            </div>
+        </div>        
+        
+        <!-- Container for form -->
+        <div class="container float-start">
+            <form method="get" action="https://google.com/search">
+               
+                <!--First row on page for column headers-->
+                <div class="row">
+                    <div class="col">
+                        <p class="col_header">Find pages with...</p>
+                    </div>
+                    <div class="col"><!--empty col--></div>
+                    <div class="col">
+                        <p id="col_header3">To do this in the search box</p>
+                    </div>
+               </div>
+
+               <!--Second row on page for search labels and inputs-->
+                <div class="row"> 
+
+                    <!--Column 1 contains search labels-->
+                    <div class="col-2 border-bottom">
+                        <div class="row mb-2">
+                            <p id="col1">all of these words:</p>
+                        </div>
+                        <div class="row mb-2">
+                            <p id="col1">this exact word or phrase:</p>
+                        </div>
+                        <div class="row mb-2">
+                            <p id="col1">any of these words:</p>
+                        </div>
+                        <div class="row mb-2">
+                            <p id="col1">none of these words:</p>
+                        </div>
+                    </div>
+
+                    <!--Column 2 contains search fields-->
+                    <div class="col border-bottom">
+                        <div>
+                            <div class="row mb-3">
+                                <input class="form-control rounded-0" type="text" name="as_q"> 
+                            </div>                                   
+                        </div>
+                        <div>
+                            <div class="row mb-3">                                
+                                <input class="form-control rounded-0" type="text" name="as_epq"> 
+                            </div>                                   
+                        </div>
+                        <div>
+                            <div class="row mb-3">                                
+                                <input class="form-control rounded-0" type="text" name="as_oq">  
+                            </div>                                   
+                        </div>
+                        <div>
+                            <div class="row mb-3">
+                                <input class="form-control rounded-0" type="text" name="as_eq"> 
+                            </div>                                   
+                        </div>
+                    </div>
+
+                    <!--Column 3 contains search instructions-->
+                    <div class="col-4 ps-4 border-bottom">
+                        <div class="row">
+                            <p id="col3" >Type the important words: <a id="ex_text">tricolor rat terrier</a></p>
+                        </div>
+                        <div class="row">
+                            <p id="col3" >Put exact words in quotes:  <a id="ex_text">"rat terrier"</a></p>
+                        </div>
+                        <div class="row">
+                            <p id="col3" >Type OR between all the words you want: <a id="ex_text">miniature OR standard</a></p>
+                        </div>
+                        <div class="row">
+                            <p id="col3" >Put a minus sign just before words you don't want: <a id="ex_text">-rodent, -"Jack Russell"</a></p>
+                        </div>
+                    </div>                    
+                    
+                    <!--Search button lives in own row in column 3-->
+                    <div class="row pt-3 justify-content-end">
+                        <div class="col-3">
+                            <input id="adv_btn" class="form-control rounded-3 shadow-sm" type="submit" value="Advanced Search">
+                        </div>                    
+                    </div>
+                </div>
+            </form>
+        </div>     
+    </body>
+</html>
