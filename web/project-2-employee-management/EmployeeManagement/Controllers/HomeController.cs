@@ -16,16 +16,20 @@ namespace EmployeeManagement.Controllers
             _employeeRepository = new MockEmployeeRepository();
         }
 
-        public string Index()
+        public ViewResult Index()
         {
-            return _employeeRepository.GetEmployee(1).Name;
+            ViewBag.PageTitle = "Home";
+            //return _employeeRepository.GetEmployee(1).Name;
+            return View();
         }
 
         //grab specific details and send to browser
         public ViewResult Details()
         {
             Employee model = _employeeRepository.GetEmployee(1);
-            return View(model);
+            ViewBag.Employee = model;
+            ViewBag.PageTitle = "Employee Details";
+            return View();
         }
     }
 }
