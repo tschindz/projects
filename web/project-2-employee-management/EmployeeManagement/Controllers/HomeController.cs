@@ -1,4 +1,5 @@
 using EmployeeManagement.Models;
+using EmployeeManagement.ViewModels;
 using Microsoft.AspNetCore.Mvc;
 using System.Diagnostics;
 
@@ -19,17 +20,20 @@ namespace EmployeeManagement.Controllers
         public ViewResult Index()
         {
             ViewBag.PageTitle = "Home";
-            //return _employeeRepository.GetEmployee(1).Name;
-            return View();
+            var model = _employeeRepository.GetAllEmployees();
+            return View(model);
         }
 
         //grab specific details and send to browser
         public ViewResult Details()
         {
-            Employee model = _employeeRepository.GetEmployee(1);
-            ViewBag.Employee = model;
-            ViewBag.PageTitle = "Employee Details";
-            return View();
+            HomeDetailsViewModel homeDetailsViewModel = new HomeDetailsViewModel()
+            {
+                employee = _employeeRepository.GetEmployee(1),
+                PageTitle = "Employee Details"
+            };
+            
+            return View(homeDetailsViewModel);
         }
     }
 }
