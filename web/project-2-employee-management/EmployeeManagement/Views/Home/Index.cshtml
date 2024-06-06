@@ -1,31 +1,31 @@
-﻿@model IEnumerable<EmployeeManagement.Models.Employee>
+﻿@model IEnumerable<Employee>
 
+    <!--Razor code block-->
+    @{
+        ViewBag.Title = "Employee List";
+    }
 <html xmlns="http://www.w3.org/1999/xhtml">
-    <head><title></title></head>
-    <body>
-        <h3>@ViewBag.PageTitle</h3>
-        <div>
-            <table>
-                <tr>
-                    <th>
-                        <th>ID</th>
-                        <th>Name</th>
-                        <th>Department</th>
-                        <th>Email</th>
-                    </th> 
-                    <tbody>
-                        @foreach (var employee in Model)
-                        {
-                            <tr>
-                                <td>@employee.Id</td>
-                                <td>@employee.Name</td>
-                                <td>@employee.Department</td>
-                                <td>@employee.Email</td>                                
-                            </tr>
-                        }
-                </tbody>
-                </tr>
-            </table>
-        </div>
-    </body>
-</html>
+
+<div>
+    <table>
+        <tr>
+            <th>
+                <th>ID</th>
+                <th>Name</th>
+                <th>Department</th>
+                <th>Email</th>
+            </th> 
+            <tbody>
+                @foreach (var employee in Model)
+                {
+                    <tr>
+                        <td>@employee.Id</td>
+                        <td>@employee.Name</td>
+                        <td>@employee.Department</td>
+                        <td>@employee.Email</td>                                
+                    </tr>
+                }
+        </tbody>
+        </tr>
+    </table>
+</div>

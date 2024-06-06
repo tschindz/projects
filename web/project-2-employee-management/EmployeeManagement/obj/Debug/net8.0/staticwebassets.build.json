@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "P1L+QiEStCOy0NPaTsL3mvDuj4z58DSY7HTa6OFavxo=",
+  "Hash": "JlpwLM96VSwqutkCKcPlkpKf5XISBwvegGZ/bynpMm4=",
   "Source": "EmployeeManagement",
   "BasePath": "_content/EmployeeManagement",
   "Mode": "Default",
@@ -93,12 +93,12 @@
       "OriginalItemSpec": "wwwroot\\favicon.ico"
     },
     {
-      "Identity": "C:\\Users\\seans\\Desktop\\projects\\web\\project-2-employee-management\\EmployeeManagement\\wwwroot\\js\\site.js",
+      "Identity": "C:\\Users\\seans\\Desktop\\projects\\web\\project-2-employee-management\\EmployeeManagement\\wwwroot\\js\\CustomScript.js",
       "SourceId": "EmployeeManagement",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\seans\\Desktop\\projects\\web\\project-2-employee-management\\EmployeeManagement\\wwwroot\\",
       "BasePath": "_content/EmployeeManagement",
-      "RelativePath": "js/site.js",
+      "RelativePath": "js/CustomScript.js",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -109,7 +109,7 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\js\\site.js"
+      "OriginalItemSpec": "wwwroot\\js\\CustomScript.js"
     },
     {
       "Identity": "C:\\Users\\seans\\Desktop\\projects\\web\\project-2-employee-management\\EmployeeManagement\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
