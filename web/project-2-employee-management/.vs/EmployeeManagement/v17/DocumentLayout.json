@@ -3,16 +3,16 @@
   "WorkspaceRootPath": "C:\\Users\\seans\\Desktop\\projects\\web\\project-2-employee-management\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{1E41BD18-CDAA-4589-AD46-D877FD4AC717}|EmployeeManagement\\EmployeeManagement.csproj|c:\\users\\seans\\desktop\\projects\\web\\project-2-employee-management\\employeemanagement\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1E41BD18-CDAA-4589-AD46-D877FD4AC717}|EmployeeManagement\\EmployeeManagement.csproj|solutionrelative:employeemanagement\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{1E41BD18-CDAA-4589-AD46-D877FD4AC717}|EmployeeManagement\\EmployeeManagement.csproj|c:\\users\\seans\\desktop\\projects\\web\\project-2-employee-management\\employeemanagement\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{1E41BD18-CDAA-4589-AD46-D877FD4AC717}|EmployeeManagement\\EmployeeManagement.csproj|solutionrelative:employeemanagement\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{1E41BD18-CDAA-4589-AD46-D877FD4AC717}|EmployeeManagement\\EmployeeManagement.csproj|c:\\users\\seans\\desktop\\projects\\web\\project-2-employee-management\\employeemanagement\\views\\home\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{1E41BD18-CDAA-4589-AD46-D877FD4AC717}|EmployeeManagement\\EmployeeManagement.csproj|solutionrelative:employeemanagement\\views\\home\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1E41BD18-CDAA-4589-AD46-D877FD4AC717}|EmployeeManagement\\EmployeeManagement.csproj|c:\\users\\seans\\desktop\\projects\\web\\project-2-employee-management\\employeemanagement\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{1E41BD18-CDAA-4589-AD46-D877FD4AC717}|EmployeeManagement\\EmployeeManagement.csproj|solutionrelative:employeemanagement\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,43 +22,43 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "_ViewImports.cshtml",
-              "DocumentMoniker": "C:\\Users\\seans\\Desktop\\projects\\web\\project-2-employee-management\\EmployeeManagement\\Views\\_ViewImports.cshtml",
-              "RelativeDocumentMoniker": "EmployeeManagement\\Views\\_ViewImports.cshtml",
-              "ToolTip": "C:\\Users\\seans\\Desktop\\projects\\web\\project-2-employee-management\\EmployeeManagement\\Views\\_ViewImports.cshtml",
-              "RelativeToolTip": "EmployeeManagement\\Views\\_ViewImports.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAkAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-06-06T14:44:53.932Z",
+              "DocumentIndex": 0,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\seans\\Desktop\\projects\\web\\project-2-employee-management\\EmployeeManagement\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "EmployeeManagement\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\seans\\Desktop\\projects\\web\\project-2-employee-management\\EmployeeManagement\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "EmployeeManagement\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAB8AAABCAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-07T13:53:06.257Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\seans\\Desktop\\projects\\web\\project-2-employee-management\\EmployeeManagement\\Views\\Home\\Index.cshtml",
               "RelativeDocumentMoniker": "EmployeeManagement\\Views\\Home\\Index.cshtml",
               "ToolTip": "C:\\Users\\seans\\Desktop\\projects\\web\\project-2-employee-management\\EmployeeManagement\\Views\\Home\\Index.cshtml",
               "RelativeToolTip": "EmployeeManagement\\Views\\Home\\Index.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAATAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAASAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-06-06T14:06:02.001Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Details.cshtml",
               "DocumentMoniker": "C:\\Users\\seans\\Desktop\\projects\\web\\project-2-employee-management\\EmployeeManagement\\Views\\Home\\Details.cshtml",
               "RelativeDocumentMoniker": "EmployeeManagement\\Views\\Home\\Details.cshtml",
               "ToolTip": "C:\\Users\\seans\\Desktop\\projects\\web\\project-2-employee-management\\EmployeeManagement\\Views\\Home\\Details.cshtml",
               "RelativeToolTip": "EmployeeManagement\\Views\\Home\\Details.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAHAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAA6AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-06-05T19:56:43.107Z",
               "EditorCaption": ""

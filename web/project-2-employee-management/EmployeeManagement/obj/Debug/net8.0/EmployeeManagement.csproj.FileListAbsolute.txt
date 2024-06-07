@@ -59,3 +59,4 @@ C:\Users\seans\Desktop\projects\web\project-2-employee-management\EmployeeManage
 C:\Users\seans\Desktop\projects\web\project-2-employee-management\EmployeeManagement\obj\Debug\net8.0\EmployeeManagement.pdb
 C:\Users\seans\Desktop\projects\web\project-2-employee-management\EmployeeManagement\obj\Debug\net8.0\EmployeeManagement.genruntimeconfig.cache
 C:\Users\seans\Desktop\projects\web\project-2-employee-management\EmployeeManagement\obj\Debug\net8.0\ref\EmployeeManagement.dll
+C:\Users\seans\Desktop\projects\web\project-2-employee-management\EmployeeManagement\bin\Debug\net8.0\libman.json

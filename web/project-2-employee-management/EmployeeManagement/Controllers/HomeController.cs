@@ -25,11 +25,11 @@ namespace EmployeeManagement.Controllers
         }
 
         //grab specific details and send to browser
-        public ViewResult Details()
+        public ViewResult Details(int? id)
         {
             HomeDetailsViewModel homeDetailsViewModel = new HomeDetailsViewModel()
             {
-                employee = _employeeRepository.GetEmployee(1),
+                employee = _employeeRepository.GetEmployee(id ?? 1),
                 PageTitle = "Employee Details"
             };
             
