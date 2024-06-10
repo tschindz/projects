@@ -13,6 +13,10 @@
       "PackagePath": "staticwebassets\\favicon.ico"
     },
     {
+      "Id": "C:\\Users\\seans\\Desktop\\projects\\web\\project-2-employee-management\\EmployeeManagement\\wwwroot\\images\\employees.png",
+      "PackagePath": "staticwebassets\\images\\employees.png"
+    },
+    {
       "Id": "C:\\Users\\seans\\Desktop\\projects\\web\\project-2-employee-management\\EmployeeManagement\\wwwroot\\images\\pencils.jpg",
       "PackagePath": "staticwebassets\\images\\pencils.jpg"
     },

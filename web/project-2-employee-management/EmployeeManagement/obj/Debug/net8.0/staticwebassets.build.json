@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "AtWPZGoPm7IuUTODyLfTfxGTr8G6e/k2DH5OxfsGQhY=",
+  "Hash": "J/clVx9HqzDD8DuzUsyZRjYHoYQixSIxeGKz/ofjQiw=",
   "Source": "EmployeeManagement",
   "BasePath": "_content/EmployeeManagement",
   "Mode": "Default",
@@ -91,6 +91,25 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\favicon.ico"
+    },
+    {
+      "Identity": "C:\\Users\\seans\\Desktop\\projects\\web\\project-2-employee-management\\EmployeeManagement\\wwwroot\\images\\employees.png",
+      "SourceId": "EmployeeManagement",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\seans\\Desktop\\projects\\web\\project-2-employee-management\\EmployeeManagement\\wwwroot\\",
+      "BasePath": "_content/EmployeeManagement",
+      "RelativePath": "images/employees.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\employees.png"
     },
     {
       "Identity": "C:\\Users\\seans\\Desktop\\projects\\web\\project-2-employee-management\\EmployeeManagement\\wwwroot\\images\\pencils.jpg",
